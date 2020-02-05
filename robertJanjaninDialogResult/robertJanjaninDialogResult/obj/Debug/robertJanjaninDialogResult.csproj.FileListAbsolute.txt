@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\bin\Debug\robertJanjaninDialogResult.exe.config
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\bin\Debug\robertJanjaninDialogResult.exe
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\bin\Debug\robertJanjaninDialogResult.pdb
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\obj\Debug\robertJanjaninDialogResult.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\obj\Debug\robertJanjaninDialogResult.Form1.resources
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\obj\Debug\robertJanjaninDialogResult.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\obj\Debug\robertJanjaninDialogResult.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\obj\Debug\robertJanjaninDialogResult.exe
+C:\Users\Korisnik\source\repos\robertJanjaninDialogResult\robertJanjaninDialogResult\obj\Debug\robertJanjaninDialogResult.pdb
